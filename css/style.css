@@ -39,7 +39,7 @@ list-style: none;
     font-weight: 700;
     color:#165FAB;  
     padding-left: 17px;
-    padding-top: 4px;
+    padding-top: 7px;
   
 }
 .s-p
@@ -54,7 +54,7 @@ list-style: none;
 #token
 {
     height: 29px;
-    padding-top: 4px;
+    padding-top: 7px;
     float: left;
 }
 .s-p1
@@ -388,6 +388,10 @@ padding-bottom: 6px;
 }
 @media only screen and (min-width:0px) and (max-width:777.9px)
 {
+    .ili
+    {
+        display: none
+    }
 .cl03
 {
     padding-top: 1rem;
